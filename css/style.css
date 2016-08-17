@@ -1,0 +1,45 @@
+
+body{
+	background: url(http://2.bp.blogspot.com/_a5mK001oySU/TIQ4Q5PMnXI/AAAAAAAAg90/xWFiai-iXg0/s1600/FotoFlexer_Photo.jpg) no-repeat fixed center center;
+
+
+	margin-left: 220px;
+	margin-right: 220px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-top: 15px;
+
+}
+
+
+h1, h2{
+	color:  #27ae60 ;
+	text-align: center;
+	font-size: 45px;
+	font-family:  serif;
+	text-decoration: underline;
+	text-shadow:  #839192  6px 6px 7px
+}
+div a {
+	color: #27ae60  ;
+}
+
+div p {
+	color: #839192 ;
+	font-family:Arial,Helvetica,sans-serif
+;
+}
+.summary {
+	color: #d7dbdd;
+	text-align: center;
+
+}
+
+div h3 {color:  #27ae60 ;
+	text-align: center;
+font-size: 25px;
+font-family:Arial,Helvetica,sans-serif;}
+
+
+
+
